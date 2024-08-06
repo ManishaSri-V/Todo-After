@@ -1,0 +1,19 @@
+.form {
+  box-sizing: border-box;
+  border: 1px solid black;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: rgb(195, 166, 221);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+input {
+  background-color: rgb(165, 154, 154);
+
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 10px;
+}
